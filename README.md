@@ -2,6 +2,11 @@
 
 STRONA BŁĘDU 404 DLA TWOJEJ STRONY
 
+Changelogs:
+
++ zmieniona grafika
++ zmieniona pozycja tekstu
+
 Aktualizacja kodu:
 
 + brak wsparcia
