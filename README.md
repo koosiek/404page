@@ -6,6 +6,10 @@ Aktualizacja kodu:
 
 + brak wsparcia
 
+Upload kodu:
+
++ 27.07.2021
+
 Autorzy kodu:
 
 + koosiek
