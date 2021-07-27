@@ -6,6 +6,10 @@ Aktualizacja kodu:
 
 + brak dalszego wsparcia
 
+Autorzy kodu:
+
++ koosiek
+
 Zdjęcia strony:
 
 + <img src="https://cdn.discordapp.com/attachments/863167283706200157/869675944498036836/unknown.png">
